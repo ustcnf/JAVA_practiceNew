@@ -1,0 +1,67 @@
+import java.util.Scanner;
+import org.junit.Test;
+
+public class JavaInterview {
+
+/*	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+*/
+	
+	@Test
+/*	
+ * 返回true表示都不同
+ * false 表示有相同元素
+ * public void checkDiff()
+	{
+		boolean flag = true;
+		Scanner scan = new Scanner(System.in);
+		String str = scan.nextLine();
+		boolean [] booleanArr = new boolean[256];
+		//System.out.println(boleanArr[1]);
+		if(str.length() > 256)
+			flag = false;
+		for(int i=0; i < str.length(); i++)
+		{
+			int c = str.charAt(i);
+			if(booleanArr[c])
+			{
+				flag = false;
+				break;
+			}
+			booleanArr[c] = true;
+		}
+		System.out.println(flag);
+	}*/
+
+	public void zipString()
+	{
+		Scanner scan = new Scanner(System.in);
+		String str = scan.nextLine();
+		StringBuffer sb = new StringBuffer();
+		char [] charArr = str.toCharArray();
+		if(str == null)
+			System.out.println("wu");
+		int num = 1;
+		for(int i = 1; i < charArr.length; i++)
+		{
+			if(charArr[i] == charArr[i-1])
+				num++;
+			else
+			{				
+				sb.append(charArr[i-1]);
+				sb.append(num);
+				num = 1;
+			}
+		}
+	
+			sb.append(charArr[charArr.length-1]);
+			sb.append(num);
+		
+		System.out.println(str);
+		System.out.println(sb.toString());
+			
+	}
+	
+}

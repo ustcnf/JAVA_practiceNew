@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ExternalProjectImportWizard">
+		<item value="true" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
+		<item value="true" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
+		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
+		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="D:\JavaPrac\Java经典编程300例源代码\Java经典编程300例源代码\Java经典编程300例\SL\08\090"/>
+			<item value="D:\JavaPrac\Java经典编程300例源代码\Java经典编程300例源代码\Java经典编程300例\SL\07\064"/>
+			<item value="D:\JavaPrac\Java经典编程300例源代码\Java经典编程300例源代码\Java经典编程300例\SL\07\063"/>
+			<item value="D:\JavaPrac\Java经典编程300例源代码\Java经典编程300例源代码\Java经典编程300例\SL\06\058"/>
+			<item value="D:\JavaPrac\Java经典编程300例源代码\Java经典编程300例源代码\Java经典编程300例\SL\06\056"/>
+			<item value="D:\JavaPrac\Java经典编程300例源代码\Java经典编程300例源代码\Java经典编程300例\SL\06\055"/>
+			<item value="D:\JavaPrac\Java经典编程300例源代码\Java经典编程300例源代码\Java经典编程300例\SL\06\054"/>
+			<item value="D:\JavaPrac\Java经典编程300例源代码\Java经典编程300例源代码\Java经典编程300例\SL\06\052"/>
+		</list>
+		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value=""/>
+		</list>
+	</section>
+</section>

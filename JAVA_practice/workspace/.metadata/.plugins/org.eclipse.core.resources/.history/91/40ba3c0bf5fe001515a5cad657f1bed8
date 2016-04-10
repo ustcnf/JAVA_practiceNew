@@ -1,0 +1,21 @@
+import java.util.Scanner;
+import org.junit.Test;
+
+public class JavaInterview {
+
+/*	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}*/
+	
+	@Test
+	public void checkDiff()
+	{
+		boolean flag = false;
+		Scanner scan = new Scanner(System.in);
+		String str = scan.nextLine();
+		boolean [] boleanArr = new boolean[256];
+		System.out.println(boleanArr[1]);
+		
+	}
+}
