@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=" 0014 对数据进行加密解密（通过异或运算）/src"/>
+	<classpathentry kind="src" path=" 0037通过选择排序对数组进行排序/src"/>
+	<classpathentry kind="src" path="00001 单例设计模式/src"/>
+	<classpathentry kind="src" path="00002 卖票程序/src"/>
+	<classpathentry kind="src" path="00002 银行存钱/src"/>
+	<classpathentry kind="src" path="00003生产消费者问题（lock_condition)/src"/>
+	<classpathentry kind="src" path="00003生产消费者问题/src"/>
+	<classpathentry kind="src" path="00004 等待唤醒机制/src"/>
+	<classpathentry kind="src" path="0002 写一个死锁程序/src"/>
+	<classpathentry kind="src" path="0010/src"/>
+	<classpathentry kind="src" path="0013 修改输出流（生成日志信息）/src"/>
+	<classpathentry kind="src" path="0025 生成杨辉三角形/src"/>
+	<classpathentry kind="src" path="0027 计算（阶乘相关计算）/src"/>
+	<classpathentry kind="src" path="0028 for生成空心菱形/src"/>
+	<classpathentry kind="src" path="0031通过split对字符串分组  包含多个空格/src"/>
+	<classpathentry kind="src" path="0038 冒泡排序/src"/>
+	<classpathentry kind="src" path="0039 插入排序/src"/>
+	<classpathentry kind="src" path="0040 快速排序(待完善)/src"/>
+	<classpathentry kind="src" path="0041 使用Arrays.sort()进行排序+反转数组/src"/>
+	<classpathentry kind="src" path="0052 重写equals函数和hashcode/src"/>
+	<classpathentry kind="src" path="0055 浅克隆/src"/>
+	<classpathentry kind="src" path="0056 深克隆/src"/>
+	<classpathentry kind="src" path="0058 深克隆与序列化的比较/src"/>
+	<classpathentry kind="src" path="0063 对象的个性化比较Comparable接口/src"/>
+	<classpathentry kind="src" path="010/src"/>
+	<classpathentry kind="src" path="012/src"/>
+	<classpathentry kind="src" path="014/src"/>
+	<classpathentry kind="src" path="027/src"/>
+	<classpathentry kind="src" path="028/src"/>
+	<classpathentry kind="src" path="031/src"/>
+	<classpathentry kind="src" path="052/src"/>
+	<classpathentry kind="src" path="054/src"/>
+	<classpathentry kind="src" path="055/src"/>
+	<classpathentry kind="src" path="056/src"/>
+	<classpathentry kind="src" path="058/src"/>
+	<classpathentry kind="src" path="063/src"/>
+	<classpathentry kind="src" path="064/src"/>
+	<classpathentry kind="src" path="090/src"/>
+	<classpathentry kind="src" path="类型转换汇总 基本数据类型与对象类型/src"/>
+	<classpathentry kind="src" path="网易在线笔试2  字符串转数组  最大公约数/src"/>
+	<classpathentry kind="src" path="网易在线笔试题  判断是否数字和字母（字符判断）/src"/>
+	<classpathentry kind="src" path="ForInterview/src"/>
+	<classpathentry kind="src" path="moBile/src"/>
+	<classpathentry kind="src" path="Test/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path=" 0014 对数据进行加密解密（通过异或运算）/bin"/>
+</classpath>
