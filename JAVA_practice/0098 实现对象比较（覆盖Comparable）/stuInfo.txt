@@ -1,0 +1,5 @@
+wangwu	40
+zhouqi	105
+sungen	140
+Zhangsan	150
+lisi	270
